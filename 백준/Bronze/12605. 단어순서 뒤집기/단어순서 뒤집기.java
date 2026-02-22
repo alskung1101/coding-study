@@ -19,8 +19,6 @@ public class Main {
                 result += (stack.pop() + " ");
             }
             System.out.println("Case #" + (i + 1) + ": " + result);
-            str = "";
-            arr = new String[0];
         }
     }
 
